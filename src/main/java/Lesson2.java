@@ -1,3 +1,6 @@
+/**
+ * ДЗ Урок 2 Шульгин К.Н
+ */
 public class Lesson2 {
 
     public static void main(String[] args) {
